@@ -14,10 +14,9 @@ The two way mirror was the most essential part of the build. To create this comp
 * [Python](https://www.python.org/)
 * [DynamoDB](https://aws.amazon.com/dynamodb/)
 
-
 ## Built By
 
-* **Chelcie Britt** - (https://github.com/chelciebritt)
+* **Chelcie Brit** - (https://github.com/chelciebritt)
 * **James Mendenhall** - (https://github.com/JPMendenhall)
 * **Maire Chew** - (https://github.com/mairechew)
 
