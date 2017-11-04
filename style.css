@@ -1,13 +1,6 @@
-html,
-body {
-  background: linear-gradient(
-    315deg,
-    rgb(78, 87, 116) 0%,
-    rgba(12, 167, 173, 0.96) 45%,
-    rgb(12, 167, 173) 50%,
-    rgba(12, 167, 173, 0.96) 53%,
-    rgb(78, 87, 116) 100%
-  ) !important;
+html, body {
+font-family: 'Lato', sans-serif;  font-size: 16px;
+background: linear-gradient(315deg, rgba(0, 0, 0, 0.51) 0%, rgba(12, 167, 173, 0.96) 45%, rgb(12, 167, 173) 50%, rgba(12, 167, 173, 0.96) 53%, rgba(0, 0, 0, 0.51) 100%)
 }
 .button,
 .navbar-item:hover {
