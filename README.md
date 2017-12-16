@@ -1,5 +1,7 @@
 # The Daily Reflection
 
+https://thedailyreflection.me/about
+
 The Daily Reflection is a smart mirror made by Maire Chew, James Mendenhall, and Chelcie Britt for their week long Q3 project while completing Galvanize's Web Development Immersive program. The mirror displays the news, weather, time, and your daily reminders set from a convenient web application.
 We used Raspberry Pi written in Python to power the mirror. For the front end we kept minimal using standard HTML, Bulma CSS, JavaScript, and Facebook Authentication. The back end connects the Raspberry Pi to the web app, and uses Python, DynamoDB, and AWS.
 
