@@ -13,10 +13,13 @@ There is too much time spent checking your watch or phone in the morning for sim
 If we provide a Smart Mirror that displays the news, weather and time for the user as well as functions as a mirror we can prevent time wasted checking your phone so that users can decrease the time spent getting ready in the morning.
 
 ## Wireframe
+![Daily-reflection-wireframe](https://github.com/mairechew/The-Daily-Reflection-1/blob/master/daily-reflection-wireframe.png)
 
 ## Execution
+![Daily-reflection-built](https://github.com/mairechew/The-Daily-Reflection-1/blob/master/mirror-image.png)
 
 ## Reflections / Improvements
+Next iteration we would like to add facial recognition that would bring up the user's custom to-do list and reminders for that day. 
 
 ## Built With
 
@@ -27,6 +30,8 @@ If we provide a Smart Mirror that displays the news, weather and time for the us
 * [DynamoDB](https://aws.amazon.com/dynamodb/)
 
 ## Built By
+
+![Daily-reflection-team](https://github.com/mairechew/The-Daily-Reflection-1/blob/master/daily-reflection-team.png)
 
 * **Chelcie Brit** - (https://github.com/chelciebritt)
 * **James Mendenhall** - (https://github.com/JPMendenhall)
