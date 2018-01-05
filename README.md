@@ -6,6 +6,18 @@ We used Raspberry Pi written in Python to power the mirror. For the front end we
 
 The two way mirror was the most essential part of the build. To create this component, we used an acrylic see-through mirror that is 1mm thick. To build the box and frame we used reclaimed wood. We then set the acrylic in the frame and a 24in LCD monitor connected to the Raspberry behind the mirror to display the data.
 
+## Problem
+There is too much time spent checking your watch or phone in the morning for simple pieces of information like news, weather and time. 
+
+## Hypothesis
+If we provide a Smart Mirror that displays the news, weather and time for the user as well as functions as a mirror we can prevent time wasted checking your phone so that users can decrease the time spent getting ready in the morning.
+
+## Wireframe
+
+## Execution
+
+## Reflections / Improvements
+
 ## Built With
 
 * [Raspberry Pi](https://www.raspberrypi.org/)
